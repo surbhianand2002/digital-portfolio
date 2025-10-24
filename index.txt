@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = SURBHI ANAND
+SURBHI ANAND
+B.ED FIRST SEMESTER STUDENT
 
 Show Contacts
 
 Email
-richard@example.com
+surbhianand1998@gmail.com
 
 Phone
-+1 (213) 352-2795
++919608131396
 
 Birthday
-June 23, 1982
+09 January 2002
 
 Location
-Sacramento, California, USA
+CENTRAL INSTITUTE OF EDUCATION
 
 # navbar
 
